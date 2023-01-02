@@ -1,9 +1,9 @@
-# Social-Auth-Claim
+# Social Auth Claim Template
 A [DecentSDK](https://docs.decent.xyz), [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [Privy](https://privy.io/) starter repo designed to let creators and projects grow their social followings by using NFTs as a carrot for engagement.
 
 This repository was cloned from Decent's [Minting Page](https://github.com/decentxyz/Minting-Page) starter repo and is currently in beta.  We are publishing it as an MVP with the hope that the community will close out our roadmap.  We will be sure to recognize & reward contributors!  If you are interested in using or contributing to this template, please DM me on Twitter [@cdurbinxyz](https://twitter.com/cdurbinxyz).  I will selectively add developers to the private repository to advance this Decent template and deploy custom implementations.  Look forward to hearing from you!
 
-## Demo implementation
+## Social Auth Demo Implementation
 [OBI Season 0 Claim](https://mint.onebigidea.xyz/)
 
 ## About Decent Templates
